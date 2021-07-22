@@ -1,0 +1,8 @@
+organization=alansastre
+projectKey=alansastre_m3-01-maven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22054
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=alansastre_m3-01-maven&branch=master
+ceTaskId=AXrN95R53lwV0wYuTdvT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXrN95R53lwV0wYuTdvT
