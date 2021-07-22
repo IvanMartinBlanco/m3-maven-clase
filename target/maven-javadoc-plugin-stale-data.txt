@@ -1,0 +1,51 @@
+@options
+@argfile
+--class-path
+'C:/Users/NintendHero/eclipse-workspace/m3-maven-clase/target/classes;C:/Users/NintendHero/eclipse-workspace/m3-maven-clase/target/test-classes;C:/Users/NintendHero/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.0-M1/junit-jupiter-api-5.8.0-M1.jar;C:/Users/NintendHero/.m2/repository/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar;C:/Users/NintendHero/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/NintendHero/.m2/repository/org/junit/platform/junit-platform-commons/1.8.0-M1/junit-platform-commons-1.8.0-M1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/NintendHero/eclipse-workspace/m3-maven-clase/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2021 <a href="http://localhost:8080/api">Cosmic developments</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/NintendHero/eclipse-workspace/m3-maven-clase/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Awesome app backend 0.0.1-SNAPSHOT Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'Awesome app backend 0.0.1-SNAPSHOT Test API'
+'C:/Users/NintendHero/eclipse-workspace/m3-maven-clase/src/test/java/TestCalculator.java'
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\src\test\java\TestCalculator.java = 1626776275898
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\src\test\java = 1626773288457
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\allclasses-index.html = 1626779987566
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\allpackages-index.html = 1626779987569
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\element-list = 1626779987524
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\help-doc.html = 1626779987590
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\index-all.html = 1626779987584
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\index.html = 1626779987586
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\jquery-ui.overrides.css = 1626779987627
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\member-search-index.js = 1626779987575
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\module-search-index.js = 1626779987571
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\overview-tree.html = 1626779987555
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\package-search-index.js = 1626779987573
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\package-summary.html = 1626779987529
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\package-tree.html = 1626779987533
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\package-use.html = 1626779987552
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\script.js = 1626779987595
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\search.js = 1626779987598
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\stylesheet.css = 1626779987593
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\tag-search-index.js = 1626779987576
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\TestCalculator.html = 1626779987521
+C:\Users\NintendHero\eclipse-workspace\m3-maven-clase\target\site\testapidocs\type-search-index.js = 1626779987574
