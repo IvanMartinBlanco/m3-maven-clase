@@ -26,5 +26,14 @@ pipeline {
                 }
             }
         }
+        stage('Sonar'){
+            
+            steps{
+                
+                sh 'mvn verify sonar:sonar -Dsonar.projectKey=IvanMartinBlanco_m3-maven-clase -Dsonar.organization=ivanmartinblanco -Dsonar.host.url=https://sonarcloud.io -Dsonar.login=2b0517953686442777fc4ca60fc0397821c643ae -Dsonar.branch.name=master'
+            }
+
+        }
+
     }
 }
